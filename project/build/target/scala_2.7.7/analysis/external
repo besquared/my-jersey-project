@@ -1,0 +1,4 @@
+#External Dependencies
+#Mon Apr 12 23:27:53 PDT 2010
+/Users/Josh/Socialytical/Scratch/sampler/project/boot/scala-2.7.7/lib/scala-library.jar=ApiProject.scala
+/Users/Josh/Socialytical/Scratch/sampler/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.3/sbt_2.7.7-0.7.3.jar=ApiProject.scala
